@@ -76,7 +76,7 @@ The notebook covers:
 
 ## 👩‍💻 Author
 
-**Bhavadharani S**  
+**S Bhavadharani**  
 GitHub: [@Bhavadharani2076](https://github.com/Bhavadharani2076)  
 AI & Computer Vision | Safety Monitoring System  
 
